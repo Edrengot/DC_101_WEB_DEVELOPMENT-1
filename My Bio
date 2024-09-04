@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <meta charset="UTF"
+        
+    </head>
+    <body style="background-color: grey;">
+      <center>
+          <img src="content://com.android.providers.media.documents/document/image%3A127" alt="description" width ="150" height="95">
+          <div class="Lyrics">
+          <h1class ="biography=">biography</h1>
+          <div class="Lyrics">
+             
+              
+          <p>
+              Name: Marc Edrei L. De Villa</br>
+              Address: Brgy. Loob, Mataasnakahoy, Batangas</br>
+              Age: 19</br>
+              Gender: Male</br>
+              Civil Status: Single</br>
+              
+          </p>
+          </div>
+      </center> 
+     <center> <a href="Marc Edrei.html"> Home </a></center>
+      
+    </body>
+    
+    </html>
